@@ -10,3 +10,4 @@ Now I am stariting to work on IntelliJ and I intenting to import all or at least
 
 This could also work as my portfolio, we'll see :)
 
+Bye 
